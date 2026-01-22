@@ -46,7 +46,7 @@ export const PROJECTS: Project[] = [
     title: 'Society Hill Modern Kitchen',
     category: 'Kitchen',
     description: 'A complete gut renovation featuring quartz countertops and custom smart lighting.',
-    imageUrl: 'https://images.unsplash.com/photo-1556911220-e150213467f9?auto=format&fit=crop&q=80&w=1200',
+    imageUrl: '/images/Society%20Hill%20Modern%20Kitchen.jpg',
     location: 'Society Hill, Philadelphia',
     year: 2025
   },
@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
     title: 'Manayunk Rooftop Deck',
     category: 'General',
     description: 'Structural reinforcement and premium composite decking with integrated outdoor lighting.',
-    imageUrl: 'https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=1200',
+    imageUrl: '/images/Manayunk%20Rooftop%20Deck.jpg',
     location: 'Manayunk, Philadelphia',
     year: 2024
   },
