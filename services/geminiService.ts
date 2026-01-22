@@ -1,5 +1,5 @@
 
-import { GoogleGenAI, GenerateContentResponse, Type } from "@google/genai";
+import { GoogleGenAI } from "@google/genai";
 
 const SYSTEM_INSTRUCTION = `
 You are the "Swiftway Project Consultant," the AI interface for Swiftway Solutions, Philadelphia's premier integrated contracting and electrical engineering firm.
