@@ -1,0 +1,7 @@
+{
+  "name": "Swiftway Solutions - Philadelphia Premium Contracting",
+  "description": "An elite architectural engineering and general contracting firm serving the Greater Philadelphia region.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
